@@ -1,6 +1,5 @@
 # Telegram Views
 
-![Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFkOTRiMTdjMTc3OTJhZmU0MDRmZGFlNGJiMjA3NGYxOGQwM2Y2ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jStbo9qVAJsObKKr5a/giphy.gif)
 
 Arguments Exmaple + Modes
 
