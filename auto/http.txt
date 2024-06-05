@@ -10,7 +10,6 @@ https://proxyhub.me/en/all-https-proxy-list.html
 https://proxy-tools.com/proxy/http
 https://proxy-tools.com/proxy/https
 https://www.proxy-list.download/api/v1/get?type=http
-https://www.proxy-list.download/api/v1/get?type=https
 https://www.proxyscan.io/download?type=http
 https://rootjazz.com/proxies/proxies.txt
 https://sheesh.rip/http.txt
