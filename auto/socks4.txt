@@ -9,7 +9,6 @@ https://www.proxyscan.io/download?type=socks4
 https://proxyhub.me/en/all-socks4-proxy-list.html
 https://proxy-tools.com/proxy/socks4
 https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc&protocols=socks4
-https://spys.me/socks.txt
 https://www.socks-proxy.net/
 https://www.my-proxy.com/free-socks-4-proxy.html
 https://cdn.jsdelivr.net/gh/B4RC0DE-TM/proxy-list/SOCKS4.txt
