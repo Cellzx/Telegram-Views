@@ -2,7 +2,6 @@ https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocol
 https://openproxy.space/list/socks4
 https://openproxylist.xyz/socks4.txt
 https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4
-https://proxysearcher.sourceforge.net/Proxy%20List.php?type=socks
 https://proxyspace.pro/socks4.txt
 https://www.proxy-list.download/api/v1/get?type=socks4
 https://www.proxyscan.io/download?type=socks4
