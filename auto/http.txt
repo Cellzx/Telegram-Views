@@ -6,7 +6,6 @@ https://openproxy.space/list/http
 https://proxyspace.pro/http.txt
 https://proxyspace.pro/https.txt
 https://proxyhub.me/en/all-http-proxy-list.html
-https://proxyhub.me/en/all-https-proxy-list.html
 https://proxy-tools.com/proxy/http
 https://proxy-tools.com/proxy/https
 https://www.proxy-list.download/api/v1/get?type=http
