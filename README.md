@@ -1,6 +1,6 @@
 # Telegram Views
 
-Arguments Exmaple + Modes
+Arguments Exmaple + Modes.
 
 ```python
 # In this examples we are sending to channel @tviews and the post number is ( 4 )
