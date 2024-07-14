@@ -108,7 +108,7 @@ class Telegram:
         '''
         while not self.sucsess_sent:
             print(logo)
-            print('\n\n        [ Waiting.... ]\r')
+            print('\n\n        [ Waiting... ]\r')
             sleep(0.3);system('cls' if name=='nt' else 'clear')
 
         while True:
